@@ -10,6 +10,7 @@ Hello I hope you are well
 - I like programming
 - I like cooking 
 - I like making music 
+If you are wondering why my logo says malivorian, I got chatgpt to make a cool sounding username for me 
 
 What else do you need?
 
