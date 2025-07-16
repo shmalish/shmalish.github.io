@@ -1,0 +1,37 @@
+---
+layout: post
+title: Mojic not ransomware
+subtitle: Not ransomware 
+cover-img: /assets/img/phishing.webp
+thumbnail-img: /assets/img/phishing.webp
+share-img: /assets/img/phishing.webp
+tags: [Cybersecurity, Coding]
+author: MALI
+---
+
+
+
+# Introduction
+As someone who gets bored a lot, and needs to be doing stuff all the time, I decided to explore the world of ransomware. This is because in university we had a malware analysis coursework on the teslacrypt ransomware and it was so extremely difficult for me but fun. Therefore I wanted to make my own by stealing a code sample of some sort of ransomware and make it my own. 
+
+## Legal Side
+Section 3A of the computer misuse act makes it illegal to make, supply or obtain malicious tools with the intent they be used in computer misuse offenses. Therefore, I am not making my ransomware too sophisitcated nor will it "encrypt" files. My approach will be a steganographical approach which you will see. 
+
+I am developing this in a host only virtual machine. I will not share nor distribute the source code to anyone. I am not going to use this project in any malicious form. 
+
+This should all make it so I don't go to jail. I'm too handsome to survive in prison. 
+
+# Idea 
+I took a sample of Jigsaw from "thezoo" and analysed it's source code. I will not be explaining the sourcecode or how to build it or else I will be breaking the computer misuse act. The image below shows what jigsaw looks like. I wanted to replace the jigsaw image with a picture of my face with clown makeup on. 
+![alt text](jig.png)
+
+
+## deactivating the ransomware
+Deactivating it was pretty simple. You can pull away the formgame files and so as long as you create another file in the main namespace with matching function names everything will just work (it took me about 1 week so it wasn't actually that simple). Then I can create my own encryptfiles function and do the "ransoming"
+
+## Creating the encryptfiles
+So how do I create a proof of concept ransomware without breaking the computer misuse act? I was inspired by stegenography where people were able to hide passwords inside a picture. 
+
+I wondered whether I could do the same in a video. Turns out you can open an mp4 in bytes mode, shove in stuff at the end and the video will still work. 
+
+
