@@ -51,5 +51,10 @@ This will set my calorie deficit to about -1000 which is going to have a dramati
 
 ## During Cut
 
+15/09/2026. 2 days into the cut and I'm hella hungry. I've noticed that I have crazy food noise during the afternoon and evening. When I am hungry all I can think about is food and eating something, anything. In about a week or so it'll go away but it's quite fascinating to see and acknowledge that I have food noise because I never thought I had it. 
+
+Mentally, I'm still pretty fine. I am noticing a decline in my mental processing speed and it's taking a while for me to even write this blog. Interestingly, meditation is becoming slightly easier. I meditate before bed where I alternate between anchors. Normally my anchor is my breath but other times it'll be sound, gratitude (thinking about things I'm grateful for), mantras etc. I think it's because I'm so tired I don't have the mental energy to think. 
+
+Doing 1 set for my sets at the gym seems to be working fine although I am noticing already I don't have the energy to do my sets. I'll come back in a week or so. 
 
 ## After Cut
