@@ -63,4 +63,11 @@ As promised I am checking back. Interestingly, I feel like I've already adapted 
 19/09/2026
 I've adjusted to the deficit and I really don't get hungry anymore. One interesting thing I've noticed, I am getting tired more easily and go to bed earlier at around 10:30-11pm. My dreams are becoming so extremely vivid but they're tied deeply to my emotions, particularly gratitude for some reason. Last night I had a dream where I was talking to an old friend and telling them how much I appreciate them and how much their actions meant to me. I had another dream where I was at the end of my cut and I was doing a lot of poses infront of a mirror. Before the cut I would sleep at perhaps 1am and I wouldn't dream at all. I do need to purchase some electrolytes though as I am starting to get a headache and my body is constantly flushing water. I'm going to just buy either liquid IV or a similar cheap solution and that will hopefully get rid of a lot of my problems. 
 
+28/09/2026
+I'm basically only writing because otherwise it'll look bad for the blog that I only wrote for 2 weeks and then stopped giving updates. I've completely adjusted to the deficit. One thing to look out for is the calories on different potatoes. Some have slightly more and some slightly less. My steps I'm keeping at 8-10k a day without forcing too many steps. Cognitively, I'm not that far off my peak although I was doing probabilities today and had to use a calculator because I couldn't multiply properly in my head. I've increased the supplements I'm taking purely because I have them in my room. Now I'm taking LiquidIV, boron, magnesium, vitamin d3, multi vitamin and zinc. I don't take them everyday because I feel like I don't need to. 
+
+In all honesty, it's not like I feel "normal", I cannot wait for this cut to be over. I think I'm good at aggressive cuts because I can easily say no to sweets and snacks and eat the same thing everyday. My mum and siblings bring back all these sweets and cakes and before my cut I'd demolish them but now I just sadly look away from the junk food. I was watching come dine with me on youtube and I had to stop watching when they were having brownie and icecream for dessert.
+
+Basically halfway thorugh, only 14 more days on the deficit. 
+
 ## After Cut
