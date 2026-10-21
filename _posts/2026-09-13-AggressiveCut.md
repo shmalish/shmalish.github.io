@@ -10,7 +10,7 @@ author: MALI
 ---
 
 # Introduction
-The purpose of this post is to document how I'm feeling before, during and after an aggressive minicut. I have done a minicut before and it worked extremely well for me. 4 weeks of extreme calorie reduction is better for my mental state compared to 8-16 weeks of a slow consistent diet. After completing the minicut ending at 65kg, I bulked back up to 70kg and am now starting to max out machines at my gym and my shoulders are now able to ripple akin to how I can ripple the individual muscle fibres in my chest (I am now showing a video sorry). Interestingly, during my last minicut, my resting heart rate went from 60bpm to about 40bpm which suggests that when I lose fat my heart doesn't need to pump as much blood so I may in the future reduce how much I bulk up before I cut. 
+The purpose of this post is to document how I'm feeling before, during and after an aggressive minicut. I have done a minicut before and it worked extremely well for me. 4 weeks of extreme calorie reduction is better for my mental state compared to 8-16 weeks of a slow consistent diet. After completing the minicut ending at 65kg, I bulked back up to 70kg and am now starting to max out machines at my gym and my shoulders are now able to ripple akin to how I can ripple the individual muscle fibres in my chest (I am not showing a video sorry). Interestingly, during my last minicut, my resting heart rate went from 60bpm to about 40bpm which suggests that when I lose fat my heart doesn't need to pump as much blood so I may in the future reduce how much I bulk up before I cut. 
 
 
 # Workout plan during minicut
