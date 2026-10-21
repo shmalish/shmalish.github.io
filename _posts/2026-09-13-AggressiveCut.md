@@ -47,8 +47,7 @@ This will set my calorie deficit to about -1000 which is going to have a dramati
 
 # Joural 
 ## Before Cut 
-13/09/2026 I feel pretty aight. My hormones and mental state are all fine although at the end of my cut it's worth exploring why I put a lot of my self worth on my physique and aesthetics. I didn't ask a girl I liked out because I didn't want her to see me shirtless and now I'll never see her again. 
-
+13/09/2026 I feel pretty aight. My hormones and mental state are all fine although at the end of my cut it's worth exploring why I put a lot of my self worth on my physique and aesthetics. 
 ## During Cut
 
 15/09/2026. 2 days into the cut and I'm hella hungry. I've noticed that I have crazy food noise during the afternoon and evening. When I am hungry all I can think about is food and eating something, anything. In about a week or so it'll go away but it's quite fascinating to see and acknowledge that I have food noise because I never thought I had it. 
