@@ -70,4 +70,9 @@ In all honesty, it's not like I feel "normal", I cannot wait for this cut to be 
 
 Basically halfway thorugh, only 14 more days on the deficit. 
 
+5/10/2026
+
+7 more days for this cut. I've been very consistent in losing 1kg / week which is freaky. I'm very happy I did this cut because I've lost no strength in the gym yet I feel like when I start eating again I'm going to be so much more stronger in all my lifts. 
+
 ## After Cut
+Bing chilling. Was quite fun to do and now I am re introducing running. On the first day I could feel carbs entering into all my muscles and because I'm lighter my muscle ups are a lot cleaner.
