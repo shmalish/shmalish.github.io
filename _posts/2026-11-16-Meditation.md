@@ -2,9 +2,9 @@
 layout: post
 title: The steps of meditation
 subtitle: Ramble of meditation and how to do it
-cover-img: /assets/img/lean.png
-thumbnail-img: /assets/img/lean.png
-share-img: /assets/img/lean.png
+cover-img: /assets/img/clown.jpeg
+thumbnail-img: /assets/img/clown.jpeg
+share-img: /assets/img/clown.jpeg
 tags: [health, fitness]
 author: MALI
 ---
